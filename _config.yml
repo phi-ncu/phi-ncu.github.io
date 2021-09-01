@@ -20,10 +20,10 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "publications"
-    href:           "/publications"
   - name:           "people"
     href:           "/people"
+  - name:           "publications"
+    href:           "/publications"
   - name:           "resources"
     href:           "/resources"
 
