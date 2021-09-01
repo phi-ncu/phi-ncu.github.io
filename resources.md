@@ -8,5 +8,5 @@ permalink: /resources/
 
 [Fundamentals of fMRI data analysis](https://github.com/fMRIAnalysisCourse) <br>
 [Introduction to Python](https://github.com/kbonna/python_course_ncu) <br>
-[Guide for reproducible neuroimaging](https://reproducible-neuroimaging.readthedocs.io/en/latest/) <br>
+[Guide to reproducible neuroimaging research](https://reproducible-neuroimaging.readthedocs.io/en/latest/) <br>
 
