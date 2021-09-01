@@ -3,7 +3,7 @@ title: Reference
 permalink: /resources/
 ---
 
-### Upcoming lab teachings
+### Teaching materials from the lab
 
 Fundamentals of fMRI data analysis
 Programming II

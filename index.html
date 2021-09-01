@@ -5,41 +5,19 @@ layout: default
 <div class='container'>
     <header class="masthead text-center">
     <title>Phi Lab</title>
-    Geometry and dynamics of complex networks
       <p>
+          Geometry and dynamics of complex networks
+
       <i>Q1 <br> Q2 <br>
       Q3<br>
       </i>
+
+      Text
 
         <span style="display: block; margin-bottom: 3em"></span>
 
       <a href="mailto:finc@umk.pl"><i class="fa fa-envelope-o"></i> finc@umk.pl</a>
       </p>
-
-      <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
-        <div style="text-align:left">
-          <h3> Recent News </h3>
-          <u>Happenings of the last two months. Updated 6/18/2021</u>
-          <span style="display: block; margin-bottom: 1em"></span>
-          <div class="news">
-              {% capture now %}{{'now' | date: '%s' | minus: 5184000 %}}{% endcapture %}
-              <ul style="list-style-position:outside;padding:20px" >
-                {% for new in site.data.news %}
-                  {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
-                  {% if date > now %}
-                    <li>
-                      <span>
-                        {{ new.details }}
-                      </span>
-                    </li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-          </div>
-        </div >
-      </div>
-
-
 
       <span style="display: block; margin-bottom: 3em"></span>
 
