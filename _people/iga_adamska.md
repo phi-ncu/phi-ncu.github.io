@@ -1,7 +1,7 @@
 ---
 name: Iga Adamska
 position: team
-avatar: 'iga_adamska.jpg' 
+avatar: iga_adamska.png
 twitter: 
 joined: 
 ---
