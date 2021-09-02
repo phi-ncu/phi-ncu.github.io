@@ -4,7 +4,7 @@ permalink: /resources/
 ---
 
 ### Teaching materials from the lab
-<br>
+<hr>
 
 [Fundamentals of fMRI data analysis](https://github.com/fMRIAnalysisCourse) <br>
 [Introduction to Python](https://github.com/kbonna/python_course_ncu) <br>

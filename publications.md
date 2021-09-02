@@ -1,5 +1,5 @@
 ---
-title: Publication
+title: Publications
 permalink: /publication/
 ---
 
@@ -7,8 +7,12 @@ permalink: /publication/
 
 ### 2021
 
+_Reverse-engineering deep ReLU networks_<br>
+David Rolnick, Konrad Kording<br>
+ICML, 2020 ([Article](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf))
+
 _Centering inclusivity in the design of online conferences_<br>
-GLevitis, E., van Praag, C. D. G., Gau, R., Heunis, S., DuPre, E., Kiar, G., Finc, K., ... & Maumet, C.<br>
+Levitis, E., van Praag, C. D. G., Gau, R., Heunis, S., DuPre, E., Kiar, G., Finc, K., ... & Maumet, C.<br>
 GigaScience, 10(8), giab051 ([Article](https://watermark.silverchair.com/giab051.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAwYwggMCBgkqhkiG9w0BBwagggLzMIIC7wIBADCCAugGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmGFkea8MdFf77Z21AgEQgIICuVrbAh8uZbwZn_e6V1-dIYMH9WL0wCeWYOZ5L-k5r7MfMwgrSMvgd4ImhBvGJg3o9ej0w3OTIYwjobNFD9MhCjJSfMs7-MqMAXocOSg2pmXgPs0Hs49DYY4SVyl4LU-ldrfYiLuUfUK44QhbqgJEJad3ByBggJDaKyRWnMnF23mx11t6Bx8xrBlVrhRZRzExpwg_-MwV28s1-Mw9xSSyfRW80ZkvMkyfZmaY519oX8-a_7R32ATmLKYFwQzhcXPadAvUd9b0TZ7JkwZPeB6qTQTQi0_z9uUS3ol94ZS7esjwBg8YFutPkrxzCR6NPLy3CGS5KnzvslCzfdAJhKPF_rp_56gqV5otvE-wWsuTuoA-BXe2WYvChTCSiSpAZgR83ZRwvwkLZD_Ci9AzZmL0Ba0mosRuAWwRUC2rVbA8nxAP6iL1b37GUhQp8-GY-36QCDWX8jMHEK8Dj18XdqdeO7Oq6P8BqfGscDctu7TTUOstbg8syzc58yhpVxYpamtsbOAs-eBHUIyK7wakXfJi3SfaROHQKpKId3LKzW9Gv5JimkAWr2CGjgQINvMa5WUXVrsNdpDaRhLoitl15LFVZ797wQkf-U7TqtYs7fnkiX0heKfneD300JXstC4IjFWrXc1OTp3aOGsRVHKDxCkzxQI3vIMePnLUWEff8BF840gX-QBBGw37EES3rs3Xb_0x_cAYAqergyBfbkW48GGFXSy6pVGPGJgooZWjI7cu4mbT6pXSMGZPcgsCxzChA92Dqyatv4l-Ty_JetUGpgne-5cYh5DEe8OxTKCL9zE5Hml3CRGuF-4J_7ftxI6RaojnNgTGquTtz6T8VsEGWo7zwQ_THI6CO8Poup3WQ5FImxHi5Xgi_afokGm-1edhljhokyEWhQkORGLwieQDkNSd_IUawKa1YX4u-ts))
 
 _Brain activity underlying response induced by SNARC‑congruent and SNARC‑incongruent stimuli_<br>

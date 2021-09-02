@@ -1,6 +1,6 @@
 ---
 name: Simone Poetto
-position: #pick your position out of 
+position: team
 avatar: #add your picture to images>people folder and put the name of the file 'name_surname.jpg' here
 twitter: 
 joined: 
