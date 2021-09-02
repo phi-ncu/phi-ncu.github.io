@@ -1,6 +1,6 @@
 ---
 name: Karolina Finc
-position: 
+position: team
 avatar: 
 twitter:
 joined: 

@@ -1,6 +1,6 @@
 ---
 name: Zofia Piętka-Danilewicz
-position: 
+position: team
 avatar:
 twitter: 
 joined: 

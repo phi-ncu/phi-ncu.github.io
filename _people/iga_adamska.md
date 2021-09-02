@@ -1,6 +1,6 @@
 ---
 name: Iga Adamska
-position: 
+position: team
 avatar: 
 twitter: 
 joined: 

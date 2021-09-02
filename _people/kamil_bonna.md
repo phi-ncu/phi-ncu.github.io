@@ -1,6 +1,6 @@
 ---
 name: Kamil Bonna
-position: 
+position: team
 avatar: 
 twitter: 
 joined: 
