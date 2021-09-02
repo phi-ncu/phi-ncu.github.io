@@ -23,10 +23,9 @@ nav:
   - name:           "people"
     href:           "/people"
   - name:           "publications"
-    href:           "/publications"
+    href:           "/publication"
   - name:           "resources"
     href:           "/resources"
-
 # Sass
 sass:
   style:            :compressed

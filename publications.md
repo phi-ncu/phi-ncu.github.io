@@ -1,6 +1,6 @@
 ---
-title: Publications
-permalink: /publications/
+title: Publication
+permalink: /publication/
 ---
 
 <hr>
