@@ -1,5 +1,5 @@
 ---
-name: Zofia Piętka-Danilewicz
+name: Zosia Piętka-Danilewicz
 position: team
 avatar:
 twitter: 
