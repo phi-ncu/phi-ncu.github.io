@@ -1,6 +1,6 @@
 ---
 name: Łukasz Furman
-position: team
+position: 
 avatar: #add your picture to images>people folder and put the name of the file 'name_surname.jpg' here
 twitter: 
 joined: 

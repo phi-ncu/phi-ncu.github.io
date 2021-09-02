@@ -1,6 +1,6 @@
 ---
 name: Weronika Sójka
-position: team
+position: 
 avatar: photo_weronika.jpg
 twitter: 
 joined: 
