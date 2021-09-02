@@ -7,10 +7,6 @@ permalink: /publication/
 
 ### 2021
 
-_Brain activity underlying response induced by SNARC‑congruent and SNARC‑incongruent stimuli_<br>
-Gut, M., Binder, M., Finc, K., & Szeszkowski, W.<br>
-Acta Neurobiol Exp, 81. ([Article](https://www.ane.pl/pdf/MSqWafYswkBGAepx.pdf))
-
 _Centering inclusivity in the design of online conferences_<br>
 GLevitis, E., van Praag, C. D. G., Gau, R., Heunis, S., DuPre, E., Kiar, G., Finc, K., ... & Maumet, C.<br>
 GigaScience, 10(8), giab051 ([Article](https://watermark.silverchair.com/giab051.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAwYwggMCBgkqhkiG9w0BBwagggLzMIIC7wIBADCCAugGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmGFkea8MdFf77Z21AgEQgIICuVrbAh8uZbwZn_e6V1-dIYMH9WL0wCeWYOZ5L-k5r7MfMwgrSMvgd4ImhBvGJg3o9ej0w3OTIYwjobNFD9MhCjJSfMs7-MqMAXocOSg2pmXgPs0Hs49DYY4SVyl4LU-ldrfYiLuUfUK44QhbqgJEJad3ByBggJDaKyRWnMnF23mx11t6Bx8xrBlVrhRZRzExpwg_-MwV28s1-Mw9xSSyfRW80ZkvMkyfZmaY519oX8-a_7R32ATmLKYFwQzhcXPadAvUd9b0TZ7JkwZPeB6qTQTQi0_z9uUS3ol94ZS7esjwBg8YFutPkrxzCR6NPLy3CGS5KnzvslCzfdAJhKPF_rp_56gqV5otvE-wWsuTuoA-BXe2WYvChTCSiSpAZgR83ZRwvwkLZD_Ci9AzZmL0Ba0mosRuAWwRUC2rVbA8nxAP6iL1b37GUhQp8-GY-36QCDWX8jMHEK8Dj18XdqdeO7Oq6P8BqfGscDctu7TTUOstbg8syzc58yhpVxYpamtsbOAs-eBHUIyK7wakXfJi3SfaROHQKpKId3LKzW9Gv5JimkAWr2CGjgQINvMa5WUXVrsNdpDaRhLoitl15LFVZ797wQkf-U7TqtYs7fnkiX0heKfneD300JXstC4IjFWrXc1OTp3aOGsRVHKDxCkzxQI3vIMePnLUWEff8BF840gX-QBBGw37EES3rs3Xb_0x_cAYAqergyBfbkW48GGFXSy6pVGPGJgooZWjI7cu4mbT6pXSMGZPcgsCxzChA92Dqyatv4l-Ty_JetUGpgne-5cYh5DEe8OxTKCL9zE5Hml3CRGuF-4J_7ftxI6RaojnNgTGquTtz6T8VsEGWo7zwQ_THI6CO8Poup3WQ5FImxHi5Xgi_afokGm-1edhljhokyEWhQkORGLwieQDkNSd_IUawKa1YX4u-ts))
@@ -44,8 +40,6 @@ Scientific Reports 10(1), 1-20. ([Article](https://www.nature.com/articles/s4159
 _Time‐varying nodal measures with temporal community structure: A cautionary note to avoid misinterpretation._<br>
 Thompson, W. H., Kastrati, G., Finc, K., Wright, J., Shine, J. M, Poldrack, R.A.<br>
 Human Brain Mapping 41(9), 2347-2356. ([Article](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24950))
-
-### 2019
 
 ### 2018
 
