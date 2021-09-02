@@ -1,7 +1,7 @@
 ---
 name: Karolina Finc
 position: team
-avatar: karolina_finc.png 
+avatar: 
 twitter:
 joined: 
 ---
@@ -10,7 +10,7 @@ joined:
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `finc@umk.pl`<br>
+`finc@umk.pl`<br>
 [<i class="fa fa-building"></i>](RIC 1481) <br>
 [<i class="fa fa-bar-chart"></i> google scholar](https://scholar.google.pl/citations?user=mBE4nHsAAAAJ&hl=pl) <br>
 [<i class="fa fa-github"></i> github](https://github.com/kfinc) <br>
