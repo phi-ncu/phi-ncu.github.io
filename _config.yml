@@ -23,7 +23,7 @@ nav:
   - name:           "people"
     href:           "/people"
   - name:           "publications"
-    href:           "/publication"
+    href:           "/publications"
   - name:           "resources"
     href:           "/resources"
 # Sass

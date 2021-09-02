@@ -1,9 +1,9 @@
 ---
 title: Publication
-permalink: /publication/
+permalink: /publications/
 ---
 
-<hr>
+<br>
 
 ### 2021
 
