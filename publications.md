@@ -1,15 +1,11 @@
 ---
 title: Publications
-permalink: /publication/
+permalink: /publications/
 ---
 
 <hr>
 
 ### 2021
-
-_Reverse-engineering deep ReLU networks_<br>
-David Rolnick, Konrad Kording<br>
-ICML, 2020 ([Article](http://proceedings.mlr.press/v119/rolnick20a/rolnick20a.pdf))
 
 _Centering inclusivity in the design of online conferences_<br>
 Levitis, E., van Praag, C. D. G., Gau, R., Heunis, S., DuPre, E., Kiar, G., Finc, K., ... & Maumet, C.<br>
