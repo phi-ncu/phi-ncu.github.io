@@ -8,11 +8,11 @@ joined:
 <img width="400" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 
-<i class="fa fa-envelope-o"></i><a href="mailto:finc@umk.pl">finc@umk.pl</a><br>
-<i class="fa fa-bar-chart"></i><a href="https://scholar.google.pl/citations?user=mBE4nHsAAAAJ&hl">Google scholar</a><br>
-<i class="fa fa-github"></i><a href="https://github.com/kfinc">GitHub</a><br>
-<i class="fa fa-home"></i><a href="https://kfinc.github.io">Personal webpage</a><br>
-<i class="fa fa-file"></i><a href="https://github.com/kfinc/cv/blob/master/Finc_CV.pdf">CV</a> <br>
+<i class="fa fa-envelope-o"></i><a href="mailto:finc@umk.pl"> finc@umk.pl</a><br>
+<i class="fa fa-bar-chart"></i><a href="https://scholar.google.pl/citations?user=mBE4nHsAAAAJ&hl"> Google scholar</a><br>
+<i class="fa fa-github"></i><a href="https://github.com/kfinc"> GitHub</a><br>
+<i class="fa fa-home"></i><a href="https://kfinc.github.io"> Personal webpage</a><br>
+<i class="fa fa-file"></i><a href="https://github.com/kfinc/cv/blob/master/Finc_CV.pdf"> CV</a> <br>
 
 
 
