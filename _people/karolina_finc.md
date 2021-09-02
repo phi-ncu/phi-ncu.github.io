@@ -5,7 +5,7 @@ avatar: karolina_finc.jpg
 twitter:
 joined: 
 ---
-
+<div class="container content page">
 <img width="400" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 
@@ -25,6 +25,7 @@ shape our experience. I'm also passionate about human creativity, music,
 philosophy, nature, photography, dance, singing, and mathematics. 
 I love to improvise in every domain of my life - from playing around with various instruments to combining 
 seemingly distant concepts in science.
+</div>
 
 
 
