@@ -24,7 +24,7 @@ at Nicolaus Copernicus University. In 2019, I defended my PhD at the Faculty of 
 at the Nicolaus Copernicus University. In my research I want to understand how the network organization and dynamics 
 shape our experience. I'm also passionate about human creativity, music, 
 philosophy, nature, photography, dance, singing, and mathematics. 
-I love to improvise in every domain of my life - from playing around with various instruments to combining 
+I love to improvise in every domain of my life - from playing around with various musical instruments to combining 
 seemingly distant concepts in science.
 
 
