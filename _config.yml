@@ -26,7 +26,6 @@ nav:
     href:           "/publications"
   - name:           "resources"
     href:           "/resources"
-
 # Sass
 sass:
   style:            :compressed
