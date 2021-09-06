@@ -20,7 +20,3 @@ joined: 2020
 ### Bio
 
 I am a Cognitive Science's 3rd year student interested in neuroplasticity, learning and memory processes. I am training myself in neuroimaging data analysis, such as raw EEG and fMRI data with further analysis steps (connectivity, linear algebra, statistics). Currently, I am also working on some research projects around topics such as reproducibility, memory, learning and brain-computer interfaces.
-
-### Research Interests
-
-Data manipulation & visualization, Machine Learning, Neural Networks, Reproducibility in Neuroimaging Research, Data analysis
