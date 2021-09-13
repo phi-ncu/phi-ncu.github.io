@@ -19,4 +19,4 @@ joined: 2020
 
 ### Bio
 
-I am a Cognitive Science's 3rd year student interested in neuroplasticity, learning and memory processes. I am training myself in neuroimaging data analysis, such as raw EEG and fMRI data with further analysis steps (connectivity, linear algebra, statistics). Currently, I am also working on some research projects around topics such as reproducibility, memory, learning and brain-computer interfaces.
+I am a Cognitive Science's student at Nicolaus Copernicus University in Toruń, Poland. I am interested in neuroplasticity, learning and memory processes. I am training myself in neuroimaging data analysis (mostly EEG and fMRI data). Currently, I am working on research projects around topics such as reproducibility, cognitive maps and graphs, and brain-computer interfaces applications. In my free time, I love to visit new places, spend hours walking or riding a bike, but as soon as I get home, I'm taking care of my two cats. 
