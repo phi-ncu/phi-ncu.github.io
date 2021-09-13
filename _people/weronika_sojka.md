@@ -1,7 +1,7 @@
 ---
 name: Weronika Sójka
 position: team
-avatar: photo_weronika.jpg
+avatar: weronika_sojka.jpg.jpg
 twitter: 
 joined: 2020
 ---
