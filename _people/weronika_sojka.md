@@ -3,7 +3,7 @@ name: Weronika Sójka
 position: team
 avatar: weronika_sojka.jpg.jpg
 twitter: 
-joined: 2020
+joined:
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -12,7 +12,6 @@ joined: 2020
 
 [<i class="fa fa-envelope-o"></i>]  `w.sojka00@gmail.com`<br>
 [<i class="fa fa-github"></i> github](https://github.com/wsojka00) <br>
-[<i class="fa fa-researchgate"></i> Research Gate](https://www.researchgate.net/profile/Weronika-Sojka) <br>
 [<i class="fa fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/wsojka00/) <br>
 
 <hr>
