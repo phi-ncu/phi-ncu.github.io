@@ -61,6 +61,8 @@ permalink: /people/
 
 ### Collaborators 
 
+Here are some of the people we had the opportunity to work with. 
+
 - [Danielle Bassett (University of Pennsylvania, USA)](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/danielle-bassett)
 - [Nicolas Schuck (Max Planck Institute for Human Development, Berlin, Germany)](https://www.mpib-berlin.mpg.de/staff/nicolas-schuck)
 - [Olivier Hulme (Danish Research Centre for Magnetic Resonance in Copenhagen, Denmark)](https://www.drcmr.dk/ollieh)]
