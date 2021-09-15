@@ -13,6 +13,7 @@ joined:
 [<i class="fa fa-envelope-o"></i>]  `w.sojka00@gmail.com`<br>
 [<i class="fa fa-github"></i> github](https://github.com/wsojka00) <br>
 [<i class="fa fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/wsojka00/) <br>
+<i class="fa fa-home"></i><a href="https://www.researchgate.net/profile/Weronika-Sojka"> ResearchGate</a><br>
 
 <hr>
 
