@@ -13,7 +13,6 @@ joined:
 <i class="fa fa-envelope-o"></i><a href="mailto:w.sojka00@gmail.com"> w.sojka00@gmail.com</a><br>
 <i class="fa fa-github"></i><a href="https://github.com/wsojka00"> GitHub</a><br>
 <i class="fa fa-home"></i><a href="https://www.linkedin.com/in/wsojka00/"> LinkedIn</a><br>
-<i class="fa fa-file"></i><a href="https://github.com/kfinc/cv/blob/master/Finc_CV.pdf"> CV</a> <br>
 <i class="fa fa-home"></i><a href="https://www.researchgate.net/profile/Weronika-Sojka"> ResearchGate</a><br>
 
 <hr>
