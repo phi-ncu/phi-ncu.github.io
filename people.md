@@ -59,9 +59,7 @@ permalink: /people/
 {% endif %}
 {% endfor %}
 
-### Collaborators 
-
-Here are some of the people we had the opportunity to work with. 
+### Scientific collaboration
 
 - [Danielle Bassett (University of Pennsylvania, USA)](https://live-sas-physics.pantheon.sas.upenn.edu/people/standing-faculty/danielle-bassett)
 - [Nicolas Schuck (Max Planck Institute for Human Development, Berlin, Germany)](https://www.mpib-berlin.mpg.de/staff/nicolas-schuck)
@@ -73,3 +71,11 @@ Here are some of the people we had the opportunity to work with.
 - [Oscar Esteban (University of Lausanne, USA)](https://wp.unil.ch/connectomics/team/oscar-esteban/)
 - [Xiaosong He (University of Pennsylvania, USA)](https://www.linkedin.com/in/xiaosong-he-380b25aa/)
 - [David Lydon-Staley (University of Pennsylvania, USA)](https://www.asc.upenn.edu/people/faculty/david-lydon-staley-phd)
+
+### Collaboration with organizations
+
+- [Neurodio](https://neurodio.com/)
+- [Neurotechnology Scientific Students Club](https://neurotech.umk.pl/pages/main_page/)
+- [Inny Rytm](https://innyrytm.pl/)
+
+
