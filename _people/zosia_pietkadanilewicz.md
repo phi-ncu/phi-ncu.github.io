@@ -1,8 +1,8 @@
 ---
-name: Zosia Piętka-Danilewicz
+name: Zofia Piętka-Danilewicz
 position: team
-avatar:
-twitter: 
+avatar: zosik.jpg.HEIC
+twitter: zpdanilewicz
 joined: 
 ---
 
@@ -10,5 +10,6 @@ joined:
 
 ### Bio
 
+I'm a Cognitive Science student at Nicolaus Copernicus Univeristy in Toruń, Poland. My main area of interest is focused on decision-making processes according to emotional and motivational state, causality in neural networks and visual aesthetic experience. Currently I conduct research connected with encoding BIS/BAS motivation from neurophysiological brain activity and another one focused on Generative BCI paradigm that merges together Generative Adversarial Networks and Brain-Computer Interface to create personalized and visually attractive images according to brain activity.
 
 
