@@ -1,7 +1,7 @@
 ---
 name: Zofia Piętka-Danilewicz
 position: team
-avatar: zosia_photo.jpeg
+avatar: zosia_pietkadanilewicz.jpeg
 twitter: zpdanilewicz
 joined: 
 ---
