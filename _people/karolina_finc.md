@@ -19,13 +19,7 @@ joined:
 
 ### Bio
 
-I’m a cognitive scientist working as assistant professor at the Centre for Modern Interdisciplinary Technologies 
-at Nicolaus Copernicus University. In 2019, I defended my PhD at the Faculty of Physics, Astronomy and Informatics 
-at the Nicolaus Copernicus University. In my research I want to understand how the network organization and dynamics 
-shape our experience. I'm also passionate about human creativity, music, 
-philosophy, nature, photography, dance, and singing. 
-I love to improvise in every domain of my life - from playing around with various musical instruments to combining 
-seemingly distant concepts in science.
+I’m a cognitive scientist working as an assistant professor at the Centre for Modern Interdisciplinary Technologies at Nicolaus Copernicus University. In 2019, I defended my PhD at the Faculty of Physics, Astronomy, and Informatics at Nicolaus Copernicus University. In my research, I want to understand how the network organization and dynamics shape our experience. I’m also passionate about human creativity, music, philosophy, nature, photography, dance, and singing. I love to improvise in every domain of my life - from playing around with various musical instruments to combining seemingly distant concepts in science.
 
 
 
