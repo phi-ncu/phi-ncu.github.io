@@ -6,7 +6,7 @@ twitter:
 joined: 
 ---
 
-<img width="400" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+<img height="400" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 <i class="fa fa-envelope-o"></i><a href="mailto:michu.kom@gmail.com"> michu.kom@gmail.com</a><br>
 <i class="fa fa-bar-chart"></i><a href="https://scholar.google.pl/citations?user=vdusSBYAAAAJ&hl"> Google scholar</a><br>
