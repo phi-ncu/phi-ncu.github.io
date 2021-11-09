@@ -1,7 +1,7 @@
 ---
 name: Łukasz Furman
 position: team
-avatar: #add your picture to images>people folder and put the name of the file 'name_surname.jpg' here
+avatar: lukasz_furman.jpg
 twitter: 
 joined: 
 ---
@@ -10,4 +10,5 @@ joined:
 
 ### Bio
 
+Passionate about cognitive science, especially interested in biocybernetics, neuroinformatics, mind research & coding. Intermedia Art teacher. In symbiosis with the fields of visual programming and generative graphics.
 
