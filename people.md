@@ -3,6 +3,9 @@ title: People
 permalink: /people/
 ---
 
+<img class='img-responsive center-block' src="/images/others/PHI_lab.png" width="100%" height="100%" />
+
+
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|team|alumni" | split: "|" %}
 
@@ -79,3 +82,4 @@ permalink: /people/
 - [Inny Rytm](https://innyrytm.pl/)
 
 
+ 
